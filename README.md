@@ -1,5 +1,5 @@
-#Sesión 01: Introducción a los contenedores en ECS: EC2 y fargate
-Introducción
+# Sesión 01:  Introducción a los contenedores en ECS: EC2 y fargate Introducción
+
 En ésta primer sesión de work pondremos en práctica los conceptos del funcionamiento de los contenedores y docker aprendidos durante el prework, mostraremos como construir una aplicación web dentro de un contenedor y desplegarlo usando los servicios de nube de AWS.
 
 Objetivos
